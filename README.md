@@ -1121,25 +1121,3 @@ ASN|OrgName|OrgID|prefixos... (Tradução da própria descrição fornecida pelo
 
 ##### [![](https://img.shields.io/badge/Voltar-Sum%C3%A1rio-blue?style=plastic&logo=Acclaim)](#sumário) 
  
----
-
-## Autores 👔 <a name="autores"></a>
-<p >
-<img src="assets/logo_profile.png" width="20%" /><br>
-<p>
-
-- **Cleiton P. (MrCl0wnLab)** - [Twitter](https://twitter.com/MrCl0wnLab), [Git](https://github.com/MrCl0wnLab)
-
-- **Diego (c4nh0t0)** - [Twitter](https://twitter.com/C4nh0t0GH), [Git](https://github.com/c4nh0t0)
-
----
-
-## Contribuições ✨ <a name="contribuicoes"></a>
-Contribuições de qualquer tipo são bem-vindas!
-    
----
-    
-## Créditos 👏 <a name="creditos"></a>
-À todas as instituições públicas governamentais e inciativas privadas que disponibilizaram os links para consulta.
-<br>
-À todos que de alguma forma contribuíram para o compartilhamento de links e tricks de consulta nos websites.
